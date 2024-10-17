@@ -1,1 +1,1 @@
-<img alt="https://andresain123.xyz" src="./dvd.svg" />
+<img alt="https://andresain123.xyz" src="./dvd720.svg" />
